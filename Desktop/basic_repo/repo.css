@@ -5,3 +5,8 @@ body{
 h1, p{
     color: rgb(42, 154, 168);
 }
+
+h2{
+    background-color: black;
+    color: rgb(167, 165, 165);
+}
